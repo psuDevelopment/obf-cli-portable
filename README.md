@@ -13,7 +13,7 @@
 - Install ``pkg`` by using the npm install command
 ```powershell
 npm install --global pkg
-``
+```
 - Then clone the repository in your desired directory.
 ```powershell
 git clone https://github.com/ParadoxDeveloper/psu-portable
