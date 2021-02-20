@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ParadoxDeveloper/psu-portable.git"
+    "url": "git+https://github.com/psuDevelopment/obf-cli-portable.git"
   },
   "author": "ParadoxDeveloper",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ParadoxDeveloper/psu-portable/issues"
+    "url": "https://github.com/psuDevelopment/obf-cli-portable/issues"
   },
-  "homepage": "https://github.com/ParadoxDeveloper/psu-portable#readme",
+  "homepage": "https://github.com/psuDevelopment/obf-portable#readme",
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/node": "^14.14.31",
