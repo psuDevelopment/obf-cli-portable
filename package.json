@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/psuDevelopment/obf-cli-portable/issues"
   },
-  "homepage": "https://github.com/psuDevelopment/obf-portable#readme",
+  "homepage": "https://github.com/psuDevelopment/obf-cli-portable#readme",
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/node": "^14.14.31",
