@@ -27,6 +27,6 @@ npm run start
 
 # Avaliable options
 You can use our help command by:
-``powershell
+```powershell
 psu-cli --help
 ```
