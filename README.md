@@ -16,7 +16,7 @@ npm install --global pkg
 ```
 - Then clone the repository in your desired directory.
 ```powershell
-git clone https://github.com/ParadoxDeveloper/psu-portable
+git clone https://github.com/psuDevelopment/obf-cli-portable
 ```
 - Install the **required** modules then run the start script
 ```powershell
