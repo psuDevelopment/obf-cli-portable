@@ -61,7 +61,7 @@ async function obfuscate(script: string, key: string, options: object) {
         writeFile('./Output.lua', r.data.data);
         console.log(`${chalk.green('[PSU-PORTABLE]: ')}: Successfully written script at ./Output.lua`);
       } else {
-        console.log(`${chalk.green('[PSU-PORTABLE]:')} There is an error while making a request!\nError: ${r.data.data}`);
+        console.log(`${chalk.green('[PSU-PORTABLE]:')} There is an error while making a request!\nError: ${r.data.reason}`);
       }
     });
   } catch (err) {
